@@ -70,10 +70,8 @@ The executable will be created in the `dist` directory. You can share this .exe 
 
    - Click "Send File"
    - Select the file you want to send
-   - Share the generated link with the recipient
 
 2. On the recipient's device:
-   - Open the shared link
    - Wait for the connection to establish
    - The file transfer will begin automatically
 
@@ -83,4 +81,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache-2.0 license - see the LICENSE file for details.
